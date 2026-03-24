@@ -12,7 +12,7 @@ const DB = {
 };
 
 // ── Admin credentials (change as needed) ─────────────────
-const ADMIN = { email: 'admin@hitl.com', password: 'admin123' };
+const ADMIN = { email: 'admin@hitl.co.in', password: 'HITL@9188@PVTLTD' };
 
 // ── Seed demo data on first load ──────────────────────────
 function seedData() {
